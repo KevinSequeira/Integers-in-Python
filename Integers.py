@@ -60,7 +60,7 @@ print('\n');
 C_into_D = c * d; 
 print('C x D = ' + str(C_into_D));
 
-# On mulltiplying negative Integers, we see that the outputs are as desired. This shows that
+# On multiplying negative Integers, we see that the outputs are as desired. This shows that
 # negative numbers can be safely used for operations.
 
 # Let's check out some other basic stuff that Python allows us to do with numbers.
